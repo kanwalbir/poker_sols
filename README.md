@@ -4,7 +4,7 @@
 
 PROBLEM: Write a program to find the winner of a Poker match (five card game).
 
-The match can be played with either a standard 52 card deck or with a 54 card deck(52 cards plus 2 joker cards). In the match involving jokers, red joker can replace any diamonds/hearts card, while a black joker can replace any clubs/spades card. The program must first create a deck of cards, then shuffle the deck, then deal cards to the players. Based on the hand received by every player, a hand rank is calculated and the poker winner is determined as per the standard rules of poker listed below.
+The match can be played with either a standard 52 card deck or with a 54 card deck (52 cards plus 2 joker cards). In the match involving jokers, a red joker can be replaced by any diamonds/hearts card, while a black joker can be replaced by any clubs/spades card. The program must first create a deck of cards, then shuffle the deck, then deal cards to the players. Based on the hand received by every player, a hand rank is calculated and the poker winner is determined as per the standard rules of poker listed below.
 
 - Straight flush
 - Four of a kind
